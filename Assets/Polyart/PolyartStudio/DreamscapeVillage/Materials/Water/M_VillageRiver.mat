@@ -9,6 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: M_VillageRiver
   m_Shader: {fileID: 4800000, guid: 8352fe40c7dd2a44a835eae3e0a9b55c, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -17,6 +19,7 @@ Material:
   m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -48,14 +51,28 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AlphaCutoff: 0.5
     - _ColorDepthFade: 1.4
     - _EdgeFoamCutoff: 0.8
     - _EdgeFoamDepthFade: 0.31
     - _EdgeFoamIntensity: 1
     - _EdgeFoamScale: 0.42
     - _EdgeLength: 15
+    - _EnvironmentReflections: 1
     - _Float0: -50.59
     - _Float3: 1
     - _Float4: 1
@@ -80,6 +97,9 @@ Material:
     - _OpacityDeep: 1
     - _OpacityFade: 0
     - _OpacityShallow: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
     - _RefractionDepth: 1.7
     - _RefractionStrength: 6.25
     - _RoughnesContrast: 112.89
@@ -87,6 +107,7 @@ Material:
     - _RoughnessIntensity: 0
     - _RoughnessTiling: 1
     - _RoughnessTiling1: 0.5
+    - _SpecularHighlights: 1
     - _TessPhongStrength: 0.5
     - _TessValue: 15
     - _WaterFoamColorIntensity: 2.01
@@ -96,6 +117,7 @@ Material:
     - _ColorDeep: {r: 0.1071111, g: 0.72746474, b: 0.7830189, a: 0}
     - _ColorShallow: {r: 0.30588233, g: 0.9757328, b: 1, a: 0}
     - _EdgeFoamSpeed: {r: 0.2, g: 1, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _FlowSpeed: {r: 0, g: 0.2, b: 0, a: 0}
     - _FlowUVTiling: {r: 1, g: 1, b: 0, a: 0}
     - _Foam: {r: 1, g: 1, b: 1, a: 0.69411767}

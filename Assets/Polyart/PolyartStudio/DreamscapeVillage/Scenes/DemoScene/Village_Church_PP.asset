@@ -50,7 +50,7 @@ MonoBehaviour:
     defaultState: 1
   intensity:
     overrideState: 1
-    value: 0.04
+    value: 0.05
   fastMode:
     overrideState: 1
     value: 0
@@ -220,7 +220,7 @@ MonoBehaviour:
     overrideState: 0
     value: 100
   lift:
-    overrideState: 1
+    overrideState: 0
     value: {x: 1, y: 1, z: 1, w: 0}
   gamma:
     overrideState: 1
@@ -1446,13 +1446,13 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 3.9
+    value: 4
   aperture:
     overrideState: 1
-    value: 2.1
+    value: 2
   focalLength:
     overrideState: 1
-    value: 25
+    value: 27
   kernelSize:
     overrideState: 1
     value: 3
@@ -1486,13 +1486,13 @@ MonoBehaviour:
     value: 65472
   diffusion:
     overrideState: 1
-    value: 5.4
+    value: 5.5
   anamorphicRatio:
     overrideState: 0
     value: 0
   color:
     overrideState: 1
-    value: {r: 1, g: 0.8646816, b: 0.759434, a: 1}
+    value: {r: 1, g: 0.9311576, b: 0.8726415, a: 1}
   fastMode:
     overrideState: 0
     value: 0
