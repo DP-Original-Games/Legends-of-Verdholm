@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 92a542d49c0d1d0478c243e758b81084
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205065
+  packageName: 'Dreamscape Nature : Campsite'
+  packageVersion: 1.0
+  assetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_Surface.shader
+  uploadId: 457951

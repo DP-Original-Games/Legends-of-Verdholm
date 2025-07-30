@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 09acca735931207469ebf2183e339e6a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205065
+  packageName: 'Dreamscape Nature : Campsite'
+  packageVersion: 1.0
+  assetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_Masked_Lit.shader
+  uploadId: 457951

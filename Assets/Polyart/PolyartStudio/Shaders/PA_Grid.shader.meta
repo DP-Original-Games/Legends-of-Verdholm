@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2af97cff360013341a004a6336324130
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205065
+  packageName: 'Dreamscape Nature : Campsite'
+  packageVersion: 1.0
+  assetPath: Assets/Polyart/PolyartStudio/Shaders/PA_Grid.shader
+  uploadId: 457951

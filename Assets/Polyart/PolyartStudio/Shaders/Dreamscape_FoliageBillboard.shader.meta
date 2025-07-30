@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b28029cc52e10a0419b31f0b9b1bbc2d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205065
+  packageName: 'Dreamscape Nature : Campsite'
+  packageVersion: 1.0
+  assetPath: Assets/Polyart/PolyartStudio/Shaders/Dreamscape_FoliageBillboard.shader
+  uploadId: 457951
