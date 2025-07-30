@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ddbebe79f86e28043b7282bf7bb50d9f
+timeCreated: 1504518945
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 247583
+  packageName: Dreamscape Nature Tower - Stylized Fantasy Open World
+  packageVersion: 1.0
+  assetPath: Assets/Polyart/PolyartStudio/SharedResources/CritiasFoliage/Code/Editor/FoliagePainterEditor.cs
+  uploadId: 564380
